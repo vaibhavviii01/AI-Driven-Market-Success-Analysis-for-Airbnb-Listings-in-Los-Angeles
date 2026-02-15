@@ -1,4 +1,3 @@
-# AI-Driven-Market-Success-Analysis-for-Airbnb-Listings-in-Los-Angeles
 
 # Analyzing the Los Angeles Airbnb Market (Post-COVID)
 
